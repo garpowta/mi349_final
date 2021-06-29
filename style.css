@@ -17,6 +17,20 @@ h1 {
     
 }
 
+.link {
+    text-align: center;
+    color: black;
+    transition-duration: .3s;
+    font-size: 14px;
+    padding: 3px;
+
+}
+
+.link:hover {
+    color: blue;
+}
+
+
 .card {
     background-color: #f3f3f3;
     border-radius: 15px;
