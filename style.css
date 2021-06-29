@@ -2,6 +2,8 @@ body {
     background-color: #e3e3e3;
     font-family: Helvetica, sans-serif;
     color: #222;
+    padding: 40px;
+    margin: 40px;
 
 }
 
@@ -20,14 +22,17 @@ h1 {
 .link {
     text-align: center;
     color: black;
-    transition-duration: .3s;
-    font-size: 14px;
+    font-size: 20px;
     padding: 3px;
 
 }
 
-.link:hover {
-    color: blue;
+.linkback {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding: 3px;
+    
 }
 
 
