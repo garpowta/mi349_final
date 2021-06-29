@@ -44,6 +44,7 @@ h1 {
     height: 250px;
     text-align: center;
     border: 2px solid #aaa;
+    float: left;
 
 }
 
