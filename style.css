@@ -36,24 +36,9 @@ h1 {
 }
 
 
-.card {
-    background-color: #f3f3f3;
-    border-radius: 15px;
-    margin: 0 auto;
+.card img {
+    margin-left: 5px;
     width: 250px;
     height: 250px;
-    text-align: center;
-    border: 2px solid #aaa;
     float: left;
-
-}
-
-.pic {
-    background-color: #f3f3f3;
-    border-radius: 15px;
-    margin: 0 auto;
-    width: 250px;
-    height: 250px;
-    text-align: center;
-    border: 2px solid #aaa;
 }
