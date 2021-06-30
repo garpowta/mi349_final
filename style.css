@@ -44,3 +44,10 @@ h1 {
     height: 250px;
     text-align: center;
 }
+
+.hobby img {
+    display: flex;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
