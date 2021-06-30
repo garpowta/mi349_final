@@ -23,6 +23,10 @@ h1 {
     font-size: 4em;
     
 }
+h2 {
+    text-align: center;
+    font-size: 2em;
+}
 
 .link {
     text-align: center;
