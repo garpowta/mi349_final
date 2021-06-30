@@ -10,6 +10,7 @@ body {
 section {
     background: #ccc;
     margin-left: 10px;;
+    margin-right: 10px;
 
 }
 
@@ -30,7 +31,8 @@ h2 {
 
 p {
     line-height: 1.2em;
-    margin-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .link {
