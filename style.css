@@ -13,6 +13,10 @@ section {
 
 }
 
+.sec {
+    display: flex;
+}
+
 h1 {
     text-align: center;
     font-size: 4em;
@@ -46,7 +50,7 @@ h1 {
 }
 
 .hobby img {
-    display: flex;
+    display: block;
     width: 250px;
     height: 250px;
     text-align: center;
